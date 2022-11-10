@@ -1,0 +1,24 @@
+body{
+    background-color: #178a17;
+    font: 20pt;
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    position: absolute;
+    height: 520px;
+    width: 520px;
+}
+input{
+    width: 70px;
+    height: 50px;
+    border-radius: 3%;
+    background-color: green;
+}
+.p1{
+    background-image: url(frodo.png);
+}
+.p2{
+    background-image: url(gandalf.png);
+}
+.p3{background-image: url(aragorn.png);
+}
